@@ -1,0 +1,16 @@
+{
+  "name": "sass-starter-pack",
+  "version": "1.0.0",
+  "description": "sass starter pack",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "Anton Andrésen",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2"
+  }
+}
